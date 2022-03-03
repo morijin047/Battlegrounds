@@ -1,0 +1,76 @@
+﻿  Ability.cpp
+  Camera.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Camera.cpp(9,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Camera.cpp(11,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CollisionManager.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\SkyboxElements\Champignon.h(12,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Egg.cpp
+  Enemy.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Enemy.h(28,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Enemy.cpp(91,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Enemy.cpp(111,34): warning C4018: '>=': signed/unsigned mismatch
+  GameFlow.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\SkyboxElements\Champignon.h(12,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Enemy.h(28,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(90,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(91,88): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(93,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(94,94): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(106,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(112,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(113,93): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(122,36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(128,36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(129,118): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(133,95): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(133,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(133,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\GameFlow.cpp(190,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\SkyboxElements\Champignon.h(12,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Enemy.h(28,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\main.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(29,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(34,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(38,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(80,28): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(81,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(108,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(109,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(112,67): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(113,67): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(120,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(122,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(124,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(126,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(150,59): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(151,59): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Player.cpp(158,35): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Projectile.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Projectile.cpp(35,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Projectile.cpp(36,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Arbre.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\SkyboxElements\Arbre.cpp(9,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\SkyboxElements\Arbre.cpp(27,22): warning C4305: '+=': truncation from 'double' to 'float'
+  Champignon.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\SkyboxElements\Champignon.h(12,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\SkyboxElements\Champignon.cpp(14,57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\SkyboxElements\Champignon.cpp(16,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\SkyboxElements\Champignon.cpp(23,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\SkyboxElements\Champignon.cpp(38,26): warning C4305: '+=': truncation from 'double' to 'float'
+  Point.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Utilities\Point.cpp(66,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Transform.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Utilities\Transform.cpp(16,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Utilities\Transform.cpp(17,51): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Utils.cpp
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Utils.cpp(58,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Utils.cpp(65,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Utils.cpp(72,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Utils.cpp(79,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Utils.cpp(93,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Utils.cpp(264,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\BattleGrounds\src\Utils.cpp(267,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  BattleGrounds.vcxproj -> D:\Users\Alex\Desktop\protfolio\projects\BattleGround\Battlegrounds\BattleGrounds\x64\Debug\BattleGrounds.exe

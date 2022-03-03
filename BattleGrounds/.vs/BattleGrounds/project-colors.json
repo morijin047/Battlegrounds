@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ff3f827-b3e0-4d0a-9304-bef9ada5881a": {
+      "ProjectGuid": "3ff3f827-b3e0-4d0a-9304-bef9ada5881a",
+      "DisplayName": "BattleGrounds",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
